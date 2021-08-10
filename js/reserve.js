@@ -12,7 +12,7 @@
 
 
 
-let apikey ="AIzaSyD6KaEAI4uVA8eqGCRWVzr5qeCHmkcxsjw";
+let apikey ="";
 let playListId = "PLcqDmjxt30RvEEN6eUCcSrrH-hKjCT4wt";
 let items;
 let videoHtmls =[];
